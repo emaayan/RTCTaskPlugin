@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.emaayan.rtctaskplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.emaayan.rtctaskplugin.MyBundle
 
 class MyApplicationService {
 
